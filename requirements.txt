@@ -8,3 +8,4 @@ catboost
 matplotlib
 seaborn
 imbalanced-learn
+shap
